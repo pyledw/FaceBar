@@ -10,7 +10,14 @@
     <body>
         <div id="faceBar">
             <div id="fbContentSection">
-                <img class="logo" href="https://www.google.com/images/srpr/logo3w.png" />hello
+                <ul>
+                    <li>
+                        <a href="index.php"><img class="logo" src="http://www.davidwpyle.com/dwpLogo.png" /></a>
+                    </li>
+                    <li>
+                        hello
+                    </li>
+                </ul>
             </div>
         </div>
         <h1>Welcome to Facebar</h1>

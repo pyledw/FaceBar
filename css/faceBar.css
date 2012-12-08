@@ -3,9 +3,12 @@
     Created on : Dec 7, 2012, 5:51:54 PM
     Author     : dwpyle1
     Description:
-        Purpose of the stylesheet follows.
+        This style sheet creats the styles used in the FaceBar navigation pane.
+        These are all custom and should only be used with the FaceBar Jquery plugin.
+    Default Colors:
+        Primary:#00ccff
+        Secondary:#000099
 */
-
 root { 
     display: block;
 }
@@ -28,7 +31,33 @@ body{
     height:40px;
     padding:0 0 0 0;
 }
-#faceBar #fbContentSection.logo{
-    height:38px;
-
+#faceBar #fbContentSection .logo{
+    height:35px;
+    padding:1px 10px 1px 10px;
+    border:none;
+    
+}
+#faceBar #fbContentSection a{
+    padding:1px 1px 1px 1px;
+    height:100%;
+}
+#faceBar ul{
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    text-decoration: none;
+    display: inline-block;
+}
+#faceBar li{
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+}
+#faceBar li:hover{
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    text-decoration: none;
+    display: inline-block;
+    background: #00ccff;
 }
