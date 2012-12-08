@@ -31,33 +31,26 @@ body{
     height:40px;
     padding:0 0 0 0;
 }
-#faceBar #fbContentSection .logo{
-    height:35px;
-    padding:1px 10px 1px 10px;
-    border:none;
-    
+#faceBar #fbContentSection #logo{
+    float:left;
 }
-#faceBar #fbContentSection a{
-    padding:1px 1px 1px 1px;
-    height:100%;
-}
-#faceBar ul{
+#faceBar a{
     padding:0px 0px 0px 0px;
     margin:0px 0px 0px 0px;
-    text-decoration: none;
-    display: inline-block;
-}
-#faceBar li{
-    padding:0px 0px 0px 0px;
-    margin:0px 0px 0px 0px;
-    text-decoration: none;
-    display: inline-block;
-    border: none;
-}
-#faceBar li:hover{
-    padding:0px 0px 0px 0px;
-    margin:0px 0px 0px 0px;
-    text-decoration: none;
-    display: inline-block;
     background: #00ccff;
+}
+#faceBar #fbContentSection #smallLinks{
+    float:left;
+    margin-left:100px;
+}
+#faceBar #fbContentSection img{
+    height:35px;
+    margin:0px 0px 0px 10px;
+    padding:0px 10px 2px 10px;
+    border:none;
+    position:absolute;
+    bottom:0px;
+}
+#faceBar #fbContentSection img:hover{
+    background:#0000ff; 
 }

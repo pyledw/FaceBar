@@ -10,14 +10,12 @@
     <body>
         <div id="faceBar">
             <div id="fbContentSection">
-                <ul>
-                    <li>
-                        <a href="index.php"><img class="logo" src="http://www.davidwpyle.com/dwpLogo.png" /></a>
-                    </li>
-                    <li>
-                        hello
-                    </li>
-                </ul>
+                <div id="logo">
+                        <a href="index.php"><img src="http://www.davidwpyle.com/dwpLogo.png" /></a>
+                </div>
+                <div id="smallLinks">
+                    <a href="index.php"><img src="http://www.pittsburghsportingnews.com/wp-content/uploads/2012/10/Facebook.png" /></a>
+                </div>
             </div>
         </div>
         <h1>Welcome to Facebar</h1>
