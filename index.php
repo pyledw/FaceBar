@@ -11,7 +11,7 @@
         <div id="faceBar">
             
             <ul id="nav">
-                <a href="index.php" id="noPadding"><img src="http://www.davidwpyle.com/dwpLogo.png" /></a>
+                <li><img src="http://www.davidwpyle.com/dwpLogo.png" /></li>
                 <li><a href="/">Home</a></li>
                 <li><a href="/about.php">About</a></li>
                 <li><a href="/archive.php">Archive</a></li>
