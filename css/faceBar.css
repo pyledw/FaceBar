@@ -9,6 +9,9 @@
 root { 
     display: block;
 }
+body{
+    margin-top:40px;
+}
 
 #faceBar{
     width:100%;
@@ -27,4 +30,5 @@ root {
 }
 #faceBar #fbContentSection.logo{
     height:38px;
+
 }

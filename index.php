@@ -10,7 +10,7 @@
     <body>
         <div id="faceBar">
             <div id="fbContentSection">
-                hello
+                <img class="logo" href="https://www.google.com/images/srpr/logo3w.png" />hello
             </div>
         </div>
         <h1>Welcome to Facebar</h1>
