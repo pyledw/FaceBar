@@ -9,6 +9,17 @@
 </head>   
     <body>
         <div id="faceBar">
+            
+            <ul id="nav">
+                <a href="index.php" id="noPadding"><img src="http://www.davidwpyle.com/dwpLogo.png" /></a>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about.php">About</a></li>
+                <li><a href="/archive.php">Archive</a></li>
+                <li><a href="/lab.php">Lab</a></li>
+                <li><a href="/reviews.php">Reviews</a></li>
+                <li><a href="/contact.php">Contact</a></li>
+            </ul>
+            <!--
             <div id="fbContentSection">
                 <div id="logo">
                         <a href="index.php"><img src="http://www.davidwpyle.com/dwpLogo.png" /></a>
@@ -17,6 +28,7 @@
                     <a href="index.php"><img src="http://www.pittsburghsportingnews.com/wp-content/uploads/2012/10/Facebook.png" /></a>
                 </div>
             </div>
+            -->
         </div>
         <h1>Welcome to Facebar</h1>
         <p>This is test content</p>

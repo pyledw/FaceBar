@@ -15,42 +15,53 @@ root {
 body{
     margin-top:40px;
 }
+#nav {
+        margin:0 auto;
+        background:#000099;
+        width:1000px;
+        padding:0 0 0 0;
+        background:#000099;
+        width:1000px;
+}
+#nav img{
+    height: 40px;
+}
 
+#nav li {
+        display:inline;
+        padding:0;
+        margin:0;
+}
+#nav a:link,
+#nav a:visited {
+        color:#000;
+        background:#b2b580;
+        padding:20px 40px 4px 10px;
+        float:left;
+        width:auto;
+        border-right:1px solid #42432d;
+        text-decoration:none;
+        font:bold 1em/1em Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        text-shadow: 2px 2px 2px #555;
+}
+#nav a:hover,
+#nav a:focus {
+        color:#fff;
+        background:#727454;
+}
+#nav li:first-child a {
+        border-left:1px solid #42432d;
+}
 #faceBar{
+    text-align: center;
     width:100%;
-    height:40px;
     background: #00ccff;
     position:fixed;
     top:0px;
     left:0px;
 }
-#faceBar #fbContentSection{
-    margin:0 auto;
-    background:#000099;
-    width:1000px;
-    height:40px;
-    padding:0 0 0 0;
+#nav #noPadding{
+    padding:0px 40px 0px 10px;
 }
-#faceBar #fbContentSection #logo{
-    float:left;
-}
-#faceBar a{
-    padding:0px 0px 0px 0px;
-    margin:0px 0px 0px 0px;
-    background: #00ccff;
-}
-#faceBar #fbContentSection #smallLinks{
-    float:left;
-    margin-left:100px;
-}
-#faceBar #fbContentSection img{
-    height:35px;
-    margin:0px 0px 0px 10px;
-    padding:0px 10px 2px 10px;
-    border:none;
-    position:absolute;
-    bottom:0px;
-}
-#faceBar #fbContentSection img:hover{
-    background:#0000ff; 
-}
+
