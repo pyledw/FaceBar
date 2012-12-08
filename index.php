@@ -3,9 +3,102 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Home Page</title>
-</head>
+    
+    <!--Link to Navigation bar css file for FaceBar -->
+    <link rel="stylesheet" type="text/css" href="css/faceBar.css" />
+</head>   
     <body>
-        
+        <div id="faceBar">
+            <div id="fbContentSection">
+                hello
+            </div>
+        </div>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
+        <h1>Welcome to Facebar</h1>
+        <p>This is test content</p>
         <h1>Welcome to Facebar</h1>
         <p>This is test content</p>
     </body>
